@@ -43,7 +43,8 @@ body {
 
 .col-left {
   margin-bottom: 1rem;
-  padding: 3rem 7rem 3rem 3rem;
+  /* padding: 3rem 7rem 3rem 3rem; */
+  padding: 3rem;
 
   border-top-right-radius: 7rem;
 }
@@ -53,7 +54,8 @@ body {
 
 .icons {
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
+  gap: 2rem;
 }
 .icons .icons-bg {
   border-radius: 0.5rem;
@@ -159,7 +161,7 @@ body {
     margin-bottom: unset;
     margin-right: 2rem;
     width: 35%;
-    padding-right: 10rem;
+    /* padding-right: 10rem; */
   }
   .col-right {
     width: 60%;
